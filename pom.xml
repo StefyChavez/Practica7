@@ -10,4 +10,5 @@
         <maven.compiler.target>18</maven.compiler.target>
         <exec.mainClass>c.ejercicio_03_03.Ejercicio_03_03</exec.mainClass>
     </properties>
+    <name>Ejercicio.03_03</name>
 </project>
